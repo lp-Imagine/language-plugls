@@ -1,3 +1,11 @@
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: peng
+ * @Date: 2021-05-24 14:59:12
+ * @LastEditors: peng
+ * @LastEditTime: 2021-06-09 14:31:51
+ */
 import $ from 'jquery'
 
 window.langType = 'AUTO'
@@ -29,4 +37,5 @@ $(document).ready(function(){
     })
   })
 })
+
 
